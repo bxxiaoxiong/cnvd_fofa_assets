@@ -12,14 +12,14 @@
 
 
 将fofa邮箱和apikey填入config.ini文件中
-
+```
 xxx@qq.com
 
 7f59f2xxxxxxxxxxxxxxxx639
-
-
+```
+```
 python3 main.py
-
+```
 结果输出到result.csv中
 
 
